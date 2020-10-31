@@ -1,2 +1,2 @@
  Gopher in Chengdu,China
- + go/c# on manjaro Linux
+ + go/c#/AutoIt
